@@ -1,44 +1,43 @@
-{
-  [
-    {
-	"number": "1",
-	"name": "A",
-   },
-   {
+[
+  {
+      "number": 1,
+    "name": "A"
+  },
+  {
+      "number": 2,
+    "name": "B"
+  },
+  {
+    "number": 3,
+    "name": "C"
+  },
+  {
+    "number": 4,
+    "name": "D"
+  },
+  {
+    "number": 5,
+    "name": "E"
+  },
+  {
+    "number": 6,
+    "name": "F"
+  },
+  {
+    "number": 7,
+    "name": "G"
+  },
+  {
+    "number": 8,
+    "name": "H"
+  },
+  {
+    "number": 9,
+    "name": "I"
+  },
+  {
+    "number": 10,
+    "name": "J"
+  }
+]
 
-	"number": "2",
-	"name": "B",
-   },
-   {
-
-	"number": "3",
-	"name": "C",
-   },
-   {
-	"number": "4",
-	"name": "D",
-   },
-   {
-	"number": "5",
-	"name": "E",
-   },
-	"number": "6",
-	"name": "F",
-   {
-	"number": "7",
-	"name": "G",
-   },
-   {
-	"number": "8",
-	"name": "H",
-   },
-   {
-	"number": "9",
-	"name": "I",
-   },
-   {
-	"number": "10",
-	"name": "J",
-   }
-  ]
-}
