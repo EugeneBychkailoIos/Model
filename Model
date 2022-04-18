@@ -1,43 +1,43 @@
 [
   {
       "number": 1,
-    "name": "A"
+    "name": "Adam"
   },
   {
       "number": 2,
-    "name": "B"
+    "name": "Benjamin"
   },
   {
     "number": 3,
-    "name": "C"
+    "name": "Cam"
   },
   {
     "number": 4,
-    "name": "D"
+    "name": "Dorry"
   },
   {
     "number": 5,
-    "name": "E"
+    "name": "Elon"
   },
   {
     "number": 6,
-    "name": "F"
+    "name": "Fima"
   },
   {
     "number": 7,
-    "name": "G"
+    "name": "George"
   },
   {
     "number": 8,
-    "name": "H"
+    "name": "Harry"
   },
   {
     "number": 9,
-    "name": "I"
+    "name": "Isak"
   },
   {
     "number": 10,
-    "name": "J"
+    "name": "John"
   }
 ]
 
